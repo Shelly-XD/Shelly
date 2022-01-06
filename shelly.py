@@ -367,7 +367,7 @@ def cek_hasil():
                         pass
                     1('rm -f hasil_ok.txt')
                     print '\n Sukses.....'
-                print '\n Belum ada Hasil OK'
+                print '\n X ' + p + 'Belum ada Hasil OK'
 
             
         elif pilih_ku == '2':
@@ -379,7 +379,7 @@ def cek_hasil():
                         pass
                     1('rm -f hasil_cp.txt')
                     print '\n Sukses.....'
-                print '\n Belum ada Hasil CP'
+                print '\n X ' + p + 'Belum ada Hasil CP'
 
             
         
